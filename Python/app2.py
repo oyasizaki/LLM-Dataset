@@ -1,3 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Apr 26
+
+@author: Oyasi
+
+@app: v0.1 (Simple document(pdf) converter)
+"""
+
+
+
 import PyPDF2
 import ollama
 import json
