@@ -4,7 +4,9 @@ Created on Apr 26
 
 @author: Oyasi
 
-@app: v0.1 (Simple document(pdf) converter)
+@app: v0.1.2
+
+Simple document(pdf) converter - smaller chunk size
 """
 
 
