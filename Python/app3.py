@@ -1,3 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Apr 26
+
+@author: Oyasi
+
+@app: v0.1.3
+
+Simple document(pdf) converter - sentence based chunk size
+"""
+
+
+
 import PyPDF2
 import ollama
 import json
