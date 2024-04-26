@@ -6,7 +6,7 @@ Created on Apr 27
 
 @app: v0.2
 
-Text book type pdf converter (larger size and page number)
+Text book type pdf converter (larger pdf files)
 """
 
 
